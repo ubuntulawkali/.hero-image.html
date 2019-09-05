@@ -4,4 +4,6 @@ Drink your tea...or find a new cup of stars...no more changes...or all the chang
 
 WHEN WILL THE DREAM OF MANUAL SOFTWARE DEVELOPMENT BE REALIZED
 
-When I wake up will my dreams leave me be...or will i continue studying youtube tutorials on how to build sites with README.md'S and opening new repositories. 
+When I wake up will my dreams leave me be...or will i continue studying youtube tutorials on how to build sites with README.md'S and opening new repositories.
+
+I am testing now and seeing that there are changes being made to my paths...what daphuck to do to fix all the things?
